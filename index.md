@@ -1,7 +1,6 @@
 
 ## 데이터 분석 프로젝트 산출물 정리 페이지 입니다. 
-## Check my jupyter notebook files.
- - 팀 프로젝트의 경우 제 작업물만 업로드하였습니다.
+ - Click the links below to check my jupyter notebook files.
 
 ### 구조안전 소재 특성 예측 모델링
 - [2020_Mater Today Comm_ML-aided design of Al alloys with high performance](paper2_preprocessing.html)
