@@ -1,3 +1,8 @@
+# Check my jupyter notebook files
+
+- [2020_Mater Today Comm_ML-aided design of Al alloys with high performance](paper2_preprocessing.html)
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/soohyeony/data_analysis/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
