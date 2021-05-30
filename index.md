@@ -4,7 +4,7 @@
 
 ### 구조안전 소재 특성 예측 모델링
 - [Mater Today Comm_ML-aided design of Al alloys with high performance](paper2_workspace.html)
-- [Design of medium carbon steels by computational intelligence techniques](paper2_workspace.html)
+- [Design of medium carbon steels by computational intelligence techniques](paper1_workspace.html)
 
 ```
 ### 2016-2019 서울시 에너지 빈곤층 분석
